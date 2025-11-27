@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=DevOps%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Automation,%20Scalability,%20and%20Cloud%20Infrastructure%20Expert&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=400&section=header&text=DevOps%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Automation,%20Scalability,%20and%20Cloud%20Infrastructure%20Expert&descAlignY=51&descAlign=62" width="100%" alt="Header" />
   
   <h1 align="center">Hi there, I'm <a href="#" target="_blank">Adeel</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
