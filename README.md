@@ -1,6 +1,6 @@
-**<div align="center">
-  <!-- Header exactly like your sample (White background, Green text, minimal) -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=ADEEL__MUNIR&fontSize=80&fontColor=00ff00&fontAlignY=45&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Architect%20%7C%20AIOps%20Pioneer&descAlignY=65&descSize=22&descColor=00ff00" width="100%" alt="Header" />
+<div align="center">
+  <!-- Header with Portfolio Yellowish Shade -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=ADEEL__MUNIR&fontSize=80&fontColor=fbbf24&fontAlignY=45&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Architect%20%7C%20AIOps%20Pioneer&descAlignY=65&descSize=22&descColor=fbbf24" width="100%" alt="Header" />
 
   <p align="center">
     <strong>Architecting scalable, secure, and self-healing cloud ecosystems.</strong><br>
@@ -87,14 +87,13 @@
 ## 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- Analytics with Clean White Background & Green Accents to match your sample -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeel450&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=00ff00&text_color=333333&title_color=00ff00" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel450&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&title_color=00ff00" alt="Top Languages" />
+  <!-- Analytics with Clean White Background & Yellowish Accents to match portfolio -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeel450&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=fbbf24&text_color=333333&title_color=fbbf24" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel450&layout=compact&theme=default&hide_border=true&bg_color=ffffff&text_color=333333&title_color=fbbf24" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel450&theme=default&bg_color=ffffff&color=00ff00&line=00ff00&point=333333&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel450&theme=default&bg_color=ffffff&color=fbbf24&line=fbbf24&point=333333&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-**
