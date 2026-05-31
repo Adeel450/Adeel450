@@ -1,11 +1,17 @@
+<!-- Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Muhammad%20Adeel%20Munir&fontSize=70&fontAlignY=35&desc=Senior%20DevOps%20%7C%20MLOps%20%7C%20Cloud%20Architect&descAlignY=55&descSize=25&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Welcome%20To%20My%20Cloud&fontSize=50&fontAlignY=35&descAlignY=55&descSize=25&animation=twinkling" width="100%" alt="Header" />
   
-  <h1 align="center">Hi there, I'm Adeel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <br/>
+
+  <!-- Dynamic Typing Effect for Name & Roles -->
+  <a href="https://adeel-munir.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Muhammad+Adeel+Munir!;Senior+DevOps+%26+MLOps+Engineer;AWS+%26+Kubernetes+Architect;Cloud+Infrastructure+Specialist&font=Outfit&center=true&width=600&height=60&color=FBBF24&vCenter=true&size=28&pause=1000" alt="Typing Animation">
+  </a>
 
   <p align="center">
     <strong><em>Architecting scalable, secure, and self-healing cloud ecosystems.</em></strong><br>
-    Driving 99.99% System Reliability & Automating Enterprise Infrastructures.
+    Bridging the gap between high-velocity development and rock-solid stability.
   </p>
 
   <p align="center">
@@ -16,9 +22,24 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://adeel-munir.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-fbbf24?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-FBBF24?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
     </a>
   </p>
+
+  <!-- GitHub Profile Views Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Adeel450&label=Profile%20Views&color=FBBF24&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/Adeel450">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adeel450&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
@@ -29,13 +50,13 @@
   
   ### ☁️ Cloud Platforms
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Huawei_Cloud-C8102E?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
 
   ### 🐳 Containers & Orchestration
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
 
@@ -54,7 +75,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
   ### 📊 Monitoring, Security & DBs
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -64,35 +85,36 @@
 
 </div>
 
-<br />
+---
 
-## 🏆 Featured Projects
+## 🏗️ Featured Engineering Projects
 
-| Project | Description | Tech Stack |
+| Project | Core Tech Stack | Impact & Description |
 | :--- | :--- | :--- |
-| **Generative AI Model Deployment** | Deployed Mistral-7B LLM on GPU instances. Developed scalable FastAPI/Flask endpoints for real-time inference. | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Hyperscale OpenEdX on EKS** | Hybrid architecture on AWS EKS with HPA, WAF, CloudFront & RDS ensuring 99.99% availability. | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![EKS](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| **High-Availability Neo4j Migration** | End-to-end zero data loss migration & scaling of Neo4j Enterprise clusters (2.3+ GiB datasets). | ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **End-to-End CI/CD Pipeline** | Automated microservices deployment pipeline integrating SonarQube & Trivy for DevSecOps. | ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
+| **[Generative AI Model Deployment](https://adeel-munir.vercel.app/)** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Deployed Mistral-7B LLM on Huawei GPU instances. Built scalable FastAPI endpoints for real-time AI inference. |
+| **[Hyperscale OpenEdX on EKS](https://adeel-munir.vercel.app/)** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![EKS](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) | Designed a hybrid EKS architecture with HPA, WAF, and RDS, ensuring 99.99% availability for enterprise LMS. |
+| **[High-Availability Neo4j Migration](https://adeel-munir.vercel.app/)** | ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) | Executed zero-data-loss migrations for 2.3+ GiB production database clusters via custom Bash automation. |
+| **[Enterprise CI/CD Pipelines](https://adeel-munir.vercel.app/)** | ![Actions](https://img.shields.io/badge/-Actions-2088FF?logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) | Engineered secure microservice deployments integrating SonarQube & Trivy for automated DevSecOps workflows. |
 
-<br />
+---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeel450&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel450&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeel450&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=FBBF24&text_color=c9d1d9&title_color=FBBF24" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel450&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FBBF24" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel450&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel450&bg_color=0d1117&color=FBBF24&line=FBBF24&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br />
 
 ---
 <div align="center">
-  <small>Code is Poetry. Infrastructure is Art.</small>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" alt="Footer" />
+  <p><small><b>Code is Poetry. Infrastructure is Art.</b></small></p>
 </div>
