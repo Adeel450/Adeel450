@@ -167,15 +167,15 @@ My work sits where infrastructure meets business continuity: reproducible enviro
 
 <table>
 <tr>
-<td valign="top" width="24%"><b>Jan 2026 to Present</b><br /><sub>IKONIC</sub></td>
+<td valign="top" width="24%"><b>Jan 2024 to Present</b><br /><sub>IKONIC</sub></td>
 <td valign="top"><b>Senior DevOps &amp; Cloud Infrastructure Engineer</b><br />Multi region AWS strategy at 99.99% uptime, modular Terraform frameworks that took provisioning from days to minutes, large scale EKS with custom Helm charts, and Neo4j Enterprise cluster migration.</td>
 </tr>
 <tr>
-<td valign="top"><b>Jan 2025 to Jan 2026</b><br /><sub>Octaloop Technologies</sub></td>
+<td valign="top"><b>Jan 2023 to Dec 2023</b><br /><sub>Octaloop Technologies</sub></td>
 <td valign="top"><b>DevOps Automation &amp; Security Engineer</b><br />Lifecycle automation for 50+ Linux servers with Ansible, 25% lower monthly AWS spend through resource audits, VPC peering with least privilege IAM, and centralised monitoring that halved MTTR.</td>
 </tr>
 <tr>
-<td valign="top"><b>Apr 2024 to Jan 2025</b><br /><sub>Al Nafi</sub></td>
+<td valign="top"><b>Jan 2022 to Dec 2022</b><br /><sub>Al Nafi</sub></td>
 <td valign="top"><b>Cloud Infrastructure Engineer</b><br />Mission critical Linux environments held at 99.9% stability, production Django applications migrated to AWS EC2 via Docker, and Bash and AWK frameworks built for real time log analysis.</td>
 </tr>
 </table>
